@@ -1,0 +1,1 @@
+# python_only_inventory_app
